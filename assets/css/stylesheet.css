@@ -9,9 +9,12 @@ body {
     padding: 12px 18px;
 }
 .navbar a {
-    color: white;
+    color: #ffffff;
     text-decoration: none;
     margin-right: 18px;
+}
+.active {
+    border-bottom: 1px solid #ffffff;
 }
 .hero {
     background: #1a73e8;
@@ -27,7 +30,7 @@ body {
     margin: 35px auto;
 }
 .card {
-    background: white;
+    background: #ffffff;
     padding: 18px;
     border-radius: 12px;
     margin-bottom: 18px;
