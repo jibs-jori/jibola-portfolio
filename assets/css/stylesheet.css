@@ -21,3 +21,15 @@ body {
     border-bottom-left-radius: 25px;
     border-bottom-right-radius: 25px;
 }
+.container {
+    width: 90%;
+    max-width: 950px;
+    margin: 35px auto;
+}
+.card {
+    background: white;
+    padding: 18px;
+    border-radius: 12px;
+    margin-bottom: 18px;
+    border: 1px solid #ddd;
+}
