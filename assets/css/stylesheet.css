@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background: #f4f5f7;
+    color: #222;
+}
+.navbar {
+    background: #0a2540;
+    padding: 12px 18px;
+}
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin-right: 18px;
+}
+.hero {
+    background: #1a73e8;
+    padding: 70px 18px;
+    color: white;
+    text-align: center;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
