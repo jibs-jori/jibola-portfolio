@@ -84,3 +84,18 @@ body {
 .contact-form button:hover {
     background: #1559b3;
 }
+.card-grid {
+    display: block;
+}
+@media (min-width: 768px) {
+    .card-grid {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 22px;
+    }
+}
+@media (min-width: 992px) {
+    .card-grid {
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
