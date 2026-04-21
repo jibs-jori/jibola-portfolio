@@ -113,6 +113,16 @@ nav a {
     margin: 35px auto;
 }
 
+/* Project styling */
+.project {
+    background-image: url('../img/pexels-markusspiske-6190327.jpg');
+    padding: 70px 18px;
+    color: #ffffff;
+    text-align: center;
+    border-bottom-left-radius: 25px;
+    border-bottom-right-radius: 25px;
+}
+
 /* Profile image */
 .profile-img {
     width: 150px;
