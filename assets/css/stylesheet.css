@@ -113,6 +113,17 @@ nav a {
     margin: 35px auto;
 }
 
+/* Profile image */
+.profile-img {
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    object-position: center top;
+    border-radius: 50%;
+    float: right;
+    margin: 0 0 1rem 1.5rem;
+}
+
 /* Generic card styling */
 .card {
     background: #ffffff;
@@ -237,7 +248,7 @@ footer small {
         display: block;
     }
 }
-}
+
 
 /* Tablet view */
 @media screen and (min-width: 768px) {
