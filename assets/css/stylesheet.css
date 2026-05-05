@@ -169,6 +169,16 @@ nav a {
     margin-bottom: 20px;
 }
 
+/* Styling for images in cards */
+.card img {
+    width: 107%;
+    height: 160px;
+    object-fit: cover;
+    object-position: top;
+    display: block;
+    margin: 12px -18px -18px -18px;
+    border-radius: 0 0 12px 12px;
+}
 /* Contact form */
 .contact-form label {
     font-weight: bold;
