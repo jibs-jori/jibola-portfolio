@@ -1,7 +1,5 @@
 # Jibola Ishola – Personal Portfolio
 
-![Portfolio preview](assets/img/portfolio-screenshot.png)
-
 A personal portfolio website showcasing my skills in HTML and CSS web development.
 
 **Live site:** https://jibs-jori.github.io/jibola-portfolio/
